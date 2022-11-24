@@ -184,7 +184,7 @@ Most states decreased in total bottles shipped to them from 2020 to 2021
 
 Matplotlib v.
 
-NumPy v.
+NumPy v. 1.21.5
 
 SciPy v.
 
